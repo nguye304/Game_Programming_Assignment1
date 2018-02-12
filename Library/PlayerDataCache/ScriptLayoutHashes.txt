@@ -13,6 +13,7 @@ ff05dcdf90651c3d98a9cad3df5e471e UnityEngine.Timeline.dll:UnityEngine.Timeline.C
 5667fb372c2b292ccdec2a31aaac98fa UnityEngine.Timeline.dll:UnityEngine.Timeline.PlayableTrack
 c24a21b131bfa67be1162db2cba4b52b UnityEngine.Timeline.dll:UnityEngine.Timeline.TimelineAsset
 05370c9536d6e442a4901a5d47beca37 Assembly-CSharp.dll:.GameController
+dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.MoverLR
 2b5bd81c259c691324a17af9a3e97e85 Assembly-CSharp.dll:.CameraController
 a35dc9cca2faebc5f5f1aeb9e8e47bbe UnityEngine.UI.dll:UnityEngine.UI.AspectRatioFitter
 05524b8f659e7bfe5756d1335fec24ba UnityEngine.UI.dll:UnityEngine.EventSystems.BaseInput
@@ -141,7 +142,6 @@ c2275a8bfbb9f9942cad75ecdfded41d UnityEngine.HoloLens.dll:UnityEngine.VR.WSA.Spa
 813a7cfaa60f38e025da722b48ef204b Assembly-CSharp.dll:.PlayerController
 fa653a98a6e358577119527401b47bcb Assembly-CSharp.dll:.arrowLogic
 0ea7e3a1b65cd933d7a007e6774c4eaa Assembly-CSharp.dll:.CameraFollow
+0513398fe3f546668ed9f5ab0c340f5e Assembly-CSharp.dll:.GameControllerVanilla
 05524b8f659e7bfe5756d1335fec24ba Assembly-CSharp.dll:.DestroyByBoundary
 c55f73f8f1562b6824faf4063dd4b0fd Assembly-CSharp.dll:.DestroyByTime
-0513398fe3f546668ed9f5ab0c340f5e Assembly-CSharp.dll:.GameControllerVanilla
-dd5481137759597d614818793c90a7fe Assembly-CSharp.dll:.MoverLR

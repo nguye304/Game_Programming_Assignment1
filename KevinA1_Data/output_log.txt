@@ -21,25 +21,123 @@ Platform assembly: C:\Users\KevinNguyen\Documents\Kevin's Game\KevinA1_Data\Mana
 Loading C:\Users\KevinNguyen\Documents\Kevin's Game\KevinA1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
 Platform assembly: C:\Users\KevinNguyen\Documents\Kevin's Game\KevinA1_Data\Managed\System.dll (this message is harmless)
 Platform assembly: C:\Users\KevinNguyen\Documents\Kevin's Game\KevinA1_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.290 seconds
+- Completed reload, in  0.024 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.442660 ms
+UnloadTime: 1.229587 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2fac -> priority: 1 
-  Thread -> id: 41a4 -> priority: 1 
-  Thread -> id: 17b4 -> priority: 1 
-  Thread -> id: 2a70 -> priority: 1 
+  Thread -> id: fa8 -> priority: 1 
+  Thread -> id: 2e20 -> priority: 1 
+  Thread -> id: 4f04 -> priority: 1 
+  Thread -> id: 1f3c -> priority: 1 
 Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.417342 ms
+UnloadTime: 4.888791 ms
 
-Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 431.
-Total: 0.347732 ms (FindLiveObjects: 0.043928 ms CreateObjectMapping: 0.018474 ms MarkObjects: 0.261518 ms  DeleteObjects: 0.022990 ms)
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 444.
+Total: 0.274655 ms (FindLiveObjects: 0.034485 ms CreateObjectMapping: 0.015190 ms MarkObjects: 0.207736 ms  DeleteObjects: 0.016832 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.239120 ms
+UnloadTime: 1.890157 ms
 
-Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 318.
-Total: 0.268086 ms (FindLiveObjects: 0.025864 ms CreateObjectMapping: 0.011905 ms MarkObjects: 0.167502 ms  DeleteObjects: 0.061992 ms)
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 328.
+Total: 0.236885 ms (FindLiveObjects: 0.015600 ms CreateObjectMapping: 0.013548 ms MarkObjects: 0.152312 ms  DeleteObjects: 0.054192 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.397409 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 551.
+Total: 0.266034 ms (FindLiveObjects: 0.030791 ms CreateObjectMapping: 0.016011 ms MarkObjects: 0.196651 ms  DeleteObjects: 0.021758 ms)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AsteroidsLR(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Asteroid(Clone)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Cannot find 'GameController' script
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NoseCapsule
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.492656 ms
+
+Unloading 70 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 2.673070 ms (FindLiveObjects: 0.042696 ms CreateObjectMapping: 0.016011 ms MarkObjects: 0.200757 ms  DeleteObjects: 2.412372 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.342396 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 329.
+Total: 0.289024 ms (FindLiveObjects: 0.029969 ms CreateObjectMapping: 0.017242 ms MarkObjects: 0.179408 ms  DeleteObjects: 0.061992 ms)
 
